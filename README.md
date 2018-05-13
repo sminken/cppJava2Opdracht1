@@ -1,4 +1,4 @@
-# CPP Java 2 Opdracht 1: 23 januari 2018
+# Open Universiteit CPP Java programmeur module Java 2 Opdracht 1: 23 januari 2018
 
 Applicatie van een eenvoudige studentenadministratie gebruikmakend van overerving en dynamische binding.
 De applicatie is ontworpen op basis van een zelf opgesteld klassendiagram met alle domeinklassen en hun associaties en 
