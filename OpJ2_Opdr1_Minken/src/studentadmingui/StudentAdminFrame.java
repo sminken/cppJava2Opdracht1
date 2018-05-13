@@ -17,9 +17,9 @@ import java.awt.event.ActionEvent;
 import studentenadmin.StudentenAdmin;
 
 /**
- * Klasse verantwoordelijk voor het beheer van de grafische interface
+ * Klasse verantwoordelijk voor het beheer van de grafische interface van de studentenadministratie
  * @author Steven Minken
- */
+ */  
 public class StudentAdminFrame extends JFrame {
 
   private static final long serialVersionUID = 1L;
